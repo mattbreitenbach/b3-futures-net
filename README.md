@@ -2,7 +2,7 @@
 
 ## 📈 Sistema de Cálculo de Derivativos e Ajustes da B3  
 
-Este projeto implementa um sistema completo para cálculos de derivativos, armazenamento de ajustes da B3 e modelagem da curva de juros usando o modelo **Nelson-Siegel-Svensson (NSS)**.  
+Este projeto implementa um sistema para cálculos de futuros, web scrapping e armazenamento de ajustes da B3 e modelagem da curva de juros usando o modelo **Nelson-Siegel-Svensson (NSS)**.  
 
 Criado "for the joy of coding", este projeto serve como uma vitrine das minhas habilidades no meu portfólio pessoal. A inspiração vem do curso "100 Days of Code: The Complete Python Pro Bootcamp" de Angela Yu. Enquanto o curso forneceu orientação e ensinou algumas valiosas ferramentas, este projeto representa minha interpretação pessoal e aplicação dos conceitos aprendidos, com grande parte do trabalho sendo de minha autoria.
 Também não poderia deixar de agradecer o professor Ricardo Rochman, que em seu [canal de youtube](https://www.youtube.com/@incredulofinanceiro) me deu a inspiração para o conteúdo deste projeto.
