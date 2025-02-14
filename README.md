@@ -46,3 +46,4 @@ streamlit run home.py
 ## Aviso
 
 Este sistema não deve ser utilizado para decisões de investimento. Os cálculos podem conter erros e não substituem uma análise profissional.
+O autor não se responsabiliza por eventuais perdas financeiras, danos ou prejuízos resultantes de decisões tomadas com base nas informações fornecidas, ou geradas pelo programa.
